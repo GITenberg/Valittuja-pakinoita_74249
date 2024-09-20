@@ -1,5 +1,8 @@
 _repo: Valittuja-pakinoita_74249
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kivinen, Ilmari
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49690
     wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kivinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74249#Valittuja-pakinoita
 gutenberg_issued: '2024-08-13'
 gutenberg_type: Text
 identifiers:
